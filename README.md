@@ -26,7 +26,7 @@ This repository contains a standalone script, `brute_force_detector.py`, that us
 1. Clone this repository in Terminal:
 
 ```
-git clone https://github.com/dre86dre/brute_force_detector.git 
+git clone https://github.com/coder0name0dre/brute_force_detector.git 
 ```
 
 2. Navigate to the folder:
@@ -82,4 +82,4 @@ Pull requests and issues are welcome. Suggestions:
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/dre86dre/brute_force_detector/blob/main/LICENSE).
+This project is licensed under the [MIT License](https://github.com/coder0name0dre/brute_force_detector/blob/main/LICENSE).
